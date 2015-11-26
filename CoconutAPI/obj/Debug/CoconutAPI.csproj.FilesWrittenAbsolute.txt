@@ -1,0 +1,6 @@
+/Users/sadikzzz/Dev/coconut/libraries/coconutnet/CoconutAPI/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/sadikzzz/Dev/coconut/libraries/coconutnet/CoconutAPI/bin/Debug/CoconutAPI.dll.mdb
+/Users/sadikzzz/Dev/coconut/libraries/coconutnet/CoconutAPI/bin/Debug/CoconutAPI.dll
+/Users/sadikzzz/Dev/coconut/libraries/coconutnet/CoconutAPI/obj/Debug/CoconutAPI.dll
+/Users/sadikzzz/Dev/coconut/libraries/coconutnet/CoconutAPI/obj/Debug/CoconutAPI.dll.mdb
+/Users/sadikzzz/Dev/coconut/libraries/coconutnet/CoconutAPI/bin/Debug/RestSharp.dll
