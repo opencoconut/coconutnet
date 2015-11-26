@@ -6,7 +6,7 @@ Use the [API Request Builder](https://app.coconut.co/job/new) to generate a conf
 
 Example of `coconut.conf`:
 
-``` language-hw
+```ini
 var s3 = s3://accesskey:secretkey@mybucket
 
 set source = http://yoursite.com/media/video.mp4
@@ -19,7 +19,7 @@ set webhook = http://mysite.com/webhook/coconut
 
 Here is the C# code to submit the config file:
 
-``` language-c
+```csharp
 using System;
 using System.Collections.Generic;
 using Coconut;
